@@ -1,0 +1,19 @@
+.inf {
+    background-color: #EEA24C;
+}
+
+p,
+h1 {
+    background-color: #f2f2f2;
+    color: #333;
+    border: 5px solid #ccc;
+    padding: 10px;
+}
+
+h2 {
+    color: #fd0404;
+}
+
+.carousel-img {
+    max-height: 650px;
+}
